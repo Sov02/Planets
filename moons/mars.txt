@@ -1,6 +1,14 @@
-Cold and dry, but everything is my favorite color.
+﻿Cold and dry, but everything is my favorite color.
 The two moons may be a problem for Wolfman...
-But the Mummy will appreciate the lack of humidity !
-Venus could be a good planet for a base too !
-Specialy in case of war against the pity human !
+# But the Mummy will appreciate the lack of humidity !
+### Venus could be a good planet for a base too !
+"Specialy" **in case** of
+__war__
+
+ against the pity human !
+
+(Barrier, Pillon, et Quéré 2015) blabla bla bla bla bla bla
+
+# Titre 1 
+
 
